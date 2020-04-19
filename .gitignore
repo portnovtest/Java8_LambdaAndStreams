@@ -1,0 +1,5 @@
+java-lambdas.iml
+
+# Project exclude paths
+/out/
+/.idea/
